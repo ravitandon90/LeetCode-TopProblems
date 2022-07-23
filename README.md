@@ -12,6 +12,10 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 ## Concurrent Programming
 - [The Dining Philosophers Problem](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Concurrency/DiningPhilosophers.cpp)
 
+## Dynamic Programming
+- [Find a number in the fibonacci sequence](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/FibonacciNumber.cpp)
+- [Find the sum of the maximum subarray with consecutive elements](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/MaxSubArray.cpp)
+
 ## Graph
 - [Calculate the minimum network delay](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/NetworkDelay.cpp)
 - [Find a valid format for an alien dictionary](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/AlienDictionary.cpp)
@@ -24,9 +28,12 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Find the container with the maximum water](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Greedy/MaxWaterContainer.cpp)
 
 ## HashTable
+- [Check if a duplicate exists in an array in O(N)](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/DuplicateFinder.cpp)
 - [Design a HitCounter](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/HitCounter.cpp)
-- [Design a Trie](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/Trie.cpp)
+- [Count number of jewels and stones in a collection](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/JewelStoneCounter.cpp)
 - [Find the missing number in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/MissingNumber.cpp)
+- [Design a Trie](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/Trie.cpp)
+- [Find if there are two numbers with a specific target sum](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/TwoSum.cpp)
 
 ## Intervals
 - [Insert new interval in non-overlapping intervals](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Intervals/InsertIntervals.cpp)
@@ -34,11 +41,12 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Find non-overlapping meeting rooms](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Intervals/MeetingRooms.cpp)
 
 ## LinkedList
+- [Detect a cycle in a linked-list](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/CycleDetector.cpp)
+- [Write an algoritm to find the middle of a linked-list](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/FindMid.cpp)
+- [Reverse a linked-list](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/ListReverse.cpp)
 - [Design an LRU Cache](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/LRUCache.cpp)
 - [Design a SkipList](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/SkipList.cpp)
 - [Write an algorithm to re-order a linked-list](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/ReorderList.cpp)
-- [Write an algoritm to find the middle of a linked-list] (https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/FindMid.cpp)
-- [Detect a cycle in a linked-list](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/CycleDetector.cpp)
 
 ## Matrix
 - [Find word in a matrix](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Matrix/WordSearch.cpp)
@@ -47,19 +55,25 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 ## Search
 - [Implement Binary Search](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Search/BinarySearch.cpp)
 
+## Sorting
+- [Design an algorithm to sort colors in a collection](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/ColorSorter.cpp)
+
 ## String Manipulation
 - [Design an algorithm to encode a list of strings to a string](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/Codec.cpp)
+- [Decode a string with a specific encoding](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/StringDecoder.cpp)
 
 ## Tree
+- [Validate a binary search tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/BinaryTreeValidator.cpp)
 - [Find the Kth smallest element in a binary search tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/BSTKSmallestElement.cpp)
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/BuildTree.cpp)
 - [Invert a binary tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/InvertTree.cpp)
 - [Print the level order traversal of a binary tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/LevelOrderTraversal.cpp)
 - [Find the lowest common ancestor of two nodes in a subtree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/LowestCommonAncestor.cpp)
-- [Validate if a tree is a subtree of another tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/SubtreeCheck.cpp)
+- [Find the maximum depth of a binary tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/MaxDepth.cpp)
 - [Print the level order traversal of a tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/PreOrderTraversal.cpp)
+- [Validate if a tree is a subtree of another tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/SubtreeCheck.cpp)
 - [Compare two binary tress](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/TreeComparator.cpp)
-- [Validate a binary search tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/BinaryTreeValidator.cpp)
-- [Construct Binary Tree from Preorder and Inorder Traversal] (https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/BuildTree.cpp)
+
 
 ## Topological Sort
 - [Find a valid format for an alien dictionary](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/AlienDictionary.cpp)
