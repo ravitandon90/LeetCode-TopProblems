@@ -1,5 +1,7 @@
 # LeetCode-TopProblems
 
+This is a list of solutions written for more than 300+ problems from leetcode. These cover various problems from Easy, Medium, and Hard solutions. Quite often, we get stuck solving problems when preparing for our interviews and it can be quite stressful. This is a compilation of all my solutions which I hope will help you become better at coding and enjoy the process of solving challanges.
+
 ## LinkedList
 - [Design an LRU Cache](https://github.com/ravifreek63/LeetCode-TopProblems/blob/main/LinkedList/LRUCache.cpp)
 - [Design a SkipList](https://github.com/ravifreek63/LeetCode-TopProblems/blob/main/LinkedList/SkipList.cpp)
