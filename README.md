@@ -5,7 +5,7 @@ This is a list of solutions written for more than 300+ problems from leetcode. T
 ## Language
 Most of these problems are solved using C++. My goal is to publish solutions for these problems in Java, and Python as well.
 
-## BitManipulation
+## Bit Manipulation
 - [Count the number of 1 bits in a number](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/BitCounter.cpp)
 - [Reverse the bits in a number](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/ReverseBits.cpp)
 
@@ -36,6 +36,9 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 ## LinkedList
 - [Design an LRU Cache](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/LRUCache.cpp)
 - [Design a SkipList](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/SkipList.cpp)
+- [Write an algorithm to re-order a linked-list](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/ReorderList.cpp)
+- [Write an algoritm to find the middle of a linked-list] (https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/FindMid.cpp)
+- [Detect a cycle in a linked-list](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/LinkedList/CycleDetector.cpp)
 
 ## Matrix
 - [Find word in a matrix](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Matrix/WordSearch.cpp)
@@ -44,6 +47,9 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 ## Search
 - [Implement Binary Search](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Search/BinarySearch.cpp)
 
+## String Manipulation
+- [Design an algorithm to encode a list of strings to a string](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/Codec.cpp)
+
 ## Tree
 - [Find the Kth smallest element in a binary search tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/BSTKSmallestElement.cpp)
 - [Invert a binary tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/InvertTree.cpp)
@@ -51,6 +57,9 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Find the lowest common ancestor of two nodes in a subtree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/LowestCommonAncestor.cpp)
 - [Validate if a tree is a subtree of another tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/SubtreeCheck.cpp)
 - [Print the level order traversal of a tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/PreOrderTraversal.cpp)
+- [Compare two binary tress](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/TreeComparator.cpp)
+- [Validate a binary search tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/BinaryTreeValidator.cpp)
+- [Construct Binary Tree from Preorder and Inorder Traversal] (https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/BuildTree.cpp)
 
 ## Topological Sort
 - [Find a valid format for an alien dictionary](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/AlienDictionary.cpp)
