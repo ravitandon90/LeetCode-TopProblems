@@ -2,6 +2,9 @@
 
 This is a list of solutions written for more than 300+ problems from leetcode. These cover various problems from Easy, Medium, and Hard solutions. Quite often, we get stuck solving problems when preparing for our interviews and it can be quite stressful. This is a compilation of all my solutions which I hope will help you become better at coding and enjoy the process of solving challanges.
 
+## Language
+Most of these problems are solved using C++. My goal is to publish solutions for these problems in Java, and Python as well.
+
 ## LinkedList
 - [Design an LRU Cache](https://github.com/ravifreek63/LeetCode-TopProblems/blob/main/LinkedList/LRUCache.cpp)
 - [Design a SkipList](https://github.com/ravifreek63/LeetCode-TopProblems/blob/main/LinkedList/SkipList.cpp)
@@ -11,7 +14,7 @@ This is a list of solutions written for more than 300+ problems from leetcode. T
 
 ## HashTable
 - [Design a HitCounter](https://github.com/ravifreek63/LeetCode-TopProblems/blob/main/HashTable/HitCounter.cpp)
-- [Design a Trie]
+- [Design a Trie](https://github.com/ravifreek63/LeetCode-TopProblems/blob/main/HashTable/Trie.cpp)
 
 ## Topological Sort
 - [Find a valid format for an alien dictionary](https://github.com/ravifreek63/LeetCode-TopProblems/blob/main/HashTable/Trie.cpp)
@@ -21,3 +24,8 @@ This is a list of solutions written for more than 300+ problems from leetcode. T
 
 ## Heap
 - [Find non-overlapping meeting rooms](https://github.com/ravifreek63/LeetCode-TopProblems/blob/main/Heap/MeetingRooms.cpp)
+
+## About Me
+Hi there. I am Ravi Tandon. I have spent more than a decade building software at [Flipkart](http://flipkart.com/), [ThoughtSpot](https://www.thoughtspot.com/), and [Spotnana](https://www.spotnana.com/). I was previously a Staff Software Engineer at ThoughtSpot and built a Natural Language Understanding Engine. I have published more than [5 research papers](https://scholar.google.com/citations?user=A5jKYW0AAAAJ&hl=en), and have multiple patents on building [Search Engines](https://patents.justia.com/inventor/ravi-tandon).
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/ravi-tandon-b6534049/), [Twitter](https://twitter.com/ravi_tandon), or [Email](mailto:ravitandon2@gmail.com).
