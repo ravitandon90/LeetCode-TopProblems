@@ -1,4 +1,4 @@
-class SpiralMatrix {
+class SpiralOrder {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int R = matrix.size();

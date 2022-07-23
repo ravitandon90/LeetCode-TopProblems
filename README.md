@@ -17,6 +17,7 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Design a Trie](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/Trie.cpp)
 
 ## Topological Sort
+- [Find a valid format for an alien dictionary](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/AlienDictionary.cpp)
 
 
 ## Graph
@@ -25,6 +26,7 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Find if a graph is a valid tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/GraphValidTree.cpp)
 - [Find the number of connected components in a graph](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/ConnectedComponents.cpp)
 - [Find if there exists a valid course schedule](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/CourseSchedule.cpp)
+- [Deep copy a graph](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/CloneGraph.cpp)
 
 ## Intervals
 - [Find non-overlapping meeting rooms](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Heap/MeetingRooms.cpp)
@@ -32,17 +34,14 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Insert new interval in non-overlapping intervals]()
 
 ## Search
-- [Implement Binary Search]()
+- [Implement Binary Search](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Search/BinarySearch.cpp)
 
 ## Matrix
-- [Find word in a matrix]()
-- [Find spiral order in a matrix]()
-
-## Bit Manipulation
-- [Calculate the number of 1 bits in a number]()
+- [Find word in a matrix](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Matrix/WordSearch.cpp)
+- [Find spiral order in a matrix](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Matrix/SpiralOrder.cpp)
 
 ## Union Find
-- [Find the longest consecutive element sequence]()
+- [Find the longest consecutive element sequence](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/UnionFind/LongestConsecutiveSequence.cpp)
 
 
 ## About Me
