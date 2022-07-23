@@ -19,17 +19,17 @@ public:
                     function<void()> eat,
                     function<void()> putLeftFork,
                     function<void()> putRightFork) {
-        
+
         {
             std::unique_lock<std::mutex> lock(mtx_);
             cond.wait(lock, [this, philosopher] {
-                return (spoons[philosopher] && spoons[(philosopher + 1)% NUM_PHILOSOPHERS]);
+                return (spoons[philosopher] && spoons[(philosopher + 1) % NUM_PHILOSOPHERS]);
             });
             spoons[philosopher] = false;
             spoons[(philosopher + 1) % NUM_PHILOSOPHERS] = false;
             pickLeftFork();
             pickRightFork();
-            
+
         }
         eat();
         {
@@ -39,10 +39,10 @@ public:
             putLeftFork();
             putRightFork();
             cond.notify_all();
-        }		
+        }
     }
-    
-    private:
+
+private:
     vector<bool> spoons;
     int NUM_PHILOSOPHERS = 5;
     std::mutex mtx_;
