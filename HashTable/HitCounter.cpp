@@ -8,7 +8,7 @@ public:
         times.resize(300, 0);
         hits.resize(300, 0);
     }
-    
+
     void hit(int timestamp) {
         int t_mod = timestamp % 300;
         if (times[t_mod] != timestamp) {
@@ -17,9 +17,9 @@ public:
         } else {
             hits[t_mod]++;
         }
-        
+
     }
-    
+
     int getHits(int timestamp) {
         int sum = 0;
         for (int i = 0; i < 300; ++i) {

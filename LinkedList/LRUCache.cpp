@@ -22,8 +22,8 @@ struct Node {
 };
 
 class LRUCache {
-public:    
-    LRUCache(int capacity) {
+public:
+	LRUCache(int capacity) {
 		max_size = capacity;
 		head = new Node();
 		tail = new Node();
@@ -38,8 +38,8 @@ public:
 			// Step-II: If exists, update node; push to front.
 			node_value = node_map[key];
 			node_value->value = value;
-            node_map[key] = node_value;
-            removeNode(node_value);		
+			node_map[key] = node_value;
+			removeNode(node_value);
 		} else {
 			// Step-III: If not exists, create node, push to front.
 			node_value = new Node();
@@ -56,7 +56,7 @@ public:
 			delete delete_node;
 		}
 	}
-	
+
 	int get(int key) {
 		// Step-I: Check if the key exists in the map.
 		if (node_map.find(key) == node_map.end()) return -1;
@@ -66,37 +66,37 @@ public:
 		insertNodeFront(node_value);
 		return node_value->value;
 	}
-    
+
 private:
- 	void removeNode(Node* node) {
- 		Node* p = node->left;
- 		Node* n = node->right;
- 		p->right = n;
- 		n->left = p;
- 		node->left = nullptr;
- 		node->right = nullptr;
- 	}
- 	
- 	void insertNodeFront(Node* node) {
- 		Node* tmp = head->right;
- 		head->right = node;
- 		node->right = tmp;
- 		node->left = head;
- 		tmp->left = node;
- 	}
+	void removeNode(Node* node) {
+		Node* p = node->left;
+		Node* n = node->right;
+		p->right = n;
+		n->left = p;
+		node->left = nullptr;
+		node->right = nullptr;
+	}
 
- 	Node* deleteFromBack() {
- 		Node* back = tail->left;
- 		tail->left = back->left;
- 		tail->left->right = tail;
- 		back->right = nullptr;
- 		back->left = nullptr;
- 		return back;
- 	}
+	void insertNodeFront(Node* node) {
+		Node* tmp = head->right;
+		head->right = node;
+		node->right = tmp;
+		node->left = head;
+		tmp->left = node;
+	}
 
- 	unordered_map<int, Node*> node_map;
- 	Node* head;
- 	Node* tail;
- 	int max_size;
+	Node* deleteFromBack() {
+		Node* back = tail->left;
+		tail->left = back->left;
+		tail->left->right = tail;
+		back->right = nullptr;
+		back->left = nullptr;
+		return back;
+	}
+
+	unordered_map<int, Node*> node_map;
+	Node* head;
+	Node* tail;
+	int max_size;
 };
 

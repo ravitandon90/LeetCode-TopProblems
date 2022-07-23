@@ -14,13 +14,13 @@ public:
             int nodeIdx = -1;
             int delay = INT_MAX;
         };
-        
+
         struct CompSigTime {
             bool operator()(const SigTime& l, const SigTime& r) {
                 return l.delay > r.delay;
             }
         };
-    
+
         // Step-I: Initialize the variables.
         unordered_map<int, vector<SigTime>> edgeList;
         vector<int> delay;
@@ -35,8 +35,8 @@ public:
         pq.push(SigTime(k, 0));
         delay[k] = 0;
         delay[0] = 0;
-                
-        // Step-II: Iterate over the queue and update the delay vector.        
+
+        // Step-II: Iterate over the queue and update the delay vector.
         while (not pq.empty()) {
             SigTime currSigTime = pq.top(); pq.pop();
             int currDelay = delay[currSigTime.nodeIdx];
@@ -46,14 +46,14 @@ public:
                 int updatedDelay = currDelay + child.delay;
                 if (updatedDelay < delay[child.nodeIdx]) {
                     delay[child.nodeIdx] = updatedDelay;
-                    pq.push(SigTime(child.nodeIdx, updatedDelay));                    
+                    pq.push(SigTime(child.nodeIdx, updatedDelay));
                 }
             }
         }
-        
+
         // Step-III: Find the maximum delay over all the nodes.
         int maxDelay = *max_element(delay.begin(), delay.end());
         if (maxDelay == INT_MAX) return -1;
-        return maxDelay;        
+        return maxDelay;
     }
 };

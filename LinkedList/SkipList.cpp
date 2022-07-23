@@ -34,17 +34,17 @@ public:
     Node* p = head;
     vector<Node*> insertPoints;
     while (p) {
-      while(p->right and p->right->value < num) p = p->right;
+      while (p->right and p->right->value < num) p = p->right;
       insertPoints.push_back(p);
       p = p->down;
     }
-    
+
     bool insertUp = true;
     Node* downNode = nullptr;
-    while(insertUp and insertPoints.size() > 0) {
-      p = insertPoints.back(); 
-      insertPoints.pop_back();      
-      
+    while (insertUp and insertPoints.size() > 0) {
+      p = insertPoints.back();
+      insertPoints.pop_back();
+
       p->right = new Node(p->right, downNode, num);
       downNode = p->right;
 
@@ -53,32 +53,32 @@ public:
 
     if (insertUp) {
       p = new Node(new Node(nullptr, downNode, num), head, -1);
-     }
-}
-  
+    }
+  }
+
   bool search(int num) {
     Node* p = head;
-    while(p) {
-      while(p->right and p->right->value < num) p = p->right;
+    while (p) {
+      while (p->right and p->right->value < num) p = p->right;
       if (!p->right or p->right->value > num) p = p->down;
       else return true;
     }
     return false;
   }
-  
+
   bool erase(int num) {
     Node* p = head;
     bool seen = false;
-    while(p) {
-      while(p->right and p->right->value < num) p = p->right;
+    while (p) {
+      while (p->right and p->right->value < num) p = p->right;
       if (!p->right or p->right->value > num) p = p->down;
       else {
         seen = true;
         Node* target = p->right;
-        p->right = target->right;      
+        p->right = target->right;
         p = p->down;
         delete target;
-      }      
+      }
     }
     return seen;
   }
