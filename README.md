@@ -17,10 +17,14 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Design a Trie](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/Trie.cpp)
 
 ## Topological Sort
-- [Find a valid format for an alien dictionary](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/Trie.cpp)
+
 
 ## Graph
 - [Calculate the minimum network delay](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/NetworkDelay.cpp)
+- [Find a valid format for an alien dictionary](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/AlienDictionary.cpp)
+- [Find if a graph is a valid tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/GraphValidTree.cpp)
+- [Find the number of connected components in a graph](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/ConnectedComponents.cpp)
+- [Find if there exists a valid course schedule](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/CourseSchedule.cpp)
 
 ## Intervals
 - [Find non-overlapping meeting rooms](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Heap/MeetingRooms.cpp)
@@ -30,8 +34,16 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 ## Search
 - [Implement Binary Search]()
 
-## Backtracking
+## Matrix
 - [Find word in a matrix]()
+- [Find spiral order in a matrix]()
+
+## Bit Manipulation
+- [Calculate the number of 1 bits in a number]()
+
+## Union Find
+- [Find the longest consecutive element sequence]()
+
 
 ## About Me
 Hi there. I am Ravi Tandon. I have spent more than a decade building software at [Flipkart](http://flipkart.com/), [ThoughtSpot](https://www.thoughtspot.com/), and [Spotnana](https://www.spotnana.com/). I was previously a Staff Software Engineer at ThoughtSpot and built a Natural Language Understanding Engine. I have published more than [5 research papers](https://scholar.google.com/citations?user=A5jKYW0AAAAJ&hl=en), and have multiple patents on building [Search Engines](https://patents.justia.com/inventor/ravi-tandon). You can connect with me on [LinkedIn](https://www.linkedin.com/in/ravi-tandon-b6534049/), [Twitter](https://twitter.com/ravi_tandon), or [Email](mailto:ravitandon2@gmail.com).
