@@ -7,12 +7,18 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 
 ## Array
 - [Create a target array in a pre-specified format](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/CreateTargetArray.cpp)
+- [Decompress Run-Length Encoded List](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/DecompressRLE.cpp)
+- [Number of Good Pairs](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/GoodPairs.cpp)
 - [Find the missing ranges from an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MissingRangeFinder.cpp)
+- [Kids With the Greatest Number of Candies](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/NumberOfCandies.cpp)
 - [For each element of an array find the product except itself](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ProductExceptSelf.cpp)
-- [Find the running sum from an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ProductExceptSelf.cpp)
+- [Range Sum Query](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/RangeSumQuery.cpp)
+- [Find the running sum from an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/RunningSum.cpp)
+- [Find the third maximum element in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ThirdMaxFinder.cpp)
 
 ## Bit Manipulation
 - [Count the number of 1 bits in a number](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/BitCounter.cpp)
+- [Counting Bits](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/CountingBits.cpp)
 - [Reverse the bits in a number](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/ReverseBits.cpp)
 
 ## Concurrent Programming
@@ -21,6 +27,8 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 ## Dynamic Programming
 - [Find a number in the fibonacci sequence](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/FibonacciNumber.cpp)
 - [Find the sum of the maximum subarray with consecutive elements](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/MaxSubArray.cpp)
+- [Climbing Stairs](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/ClimbingStairs.cpp)
+- [Is Subsequence](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/IsSubsequence.cpp)
 
 ## Graph
 - [Calculate the minimum network delay](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/NetworkDelay.cpp)
@@ -67,7 +75,12 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Implement Binary Search](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Search/BinarySearch.cpp)
 
 ## Sorting
-- [Design an algorithm to sort colors in a collection](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/ColorSorter.cpp)
+- [Implement Bubble Sort](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Sorting/BubbleSort.cpp)
+- [Design an algorithm to sort colors in a collection](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Sorting/ColorSorter.cpp)
+- [Implement Insert Sort](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Sorting/InsertSort.cpp)
+- [Implement Heap Sort](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Sorting/HeapSort.cpp)
+- [Implement Merge Sort](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Sorting/MergeSort.cpp)
+- [Implement Quick Sort](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Sorting/QuickSort.cpp)
 
 ## String Manipulation
 - [Design an algorithm to encode a list of strings to a string](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/Codec.cpp)
@@ -75,6 +88,10 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Decode a string with a specific encoding](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/StringDecoder.cpp)
 - [Implement strStr()](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/StringFinder.cpp)
 - [Remove vowels from a string](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/VowelRemover.cpp)
+- [Find a happy substring from a given string](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/LongestHappyStringFinder.cpp)
+- [Check if Word Equals Summation of Two Words](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/WordComparator.cpp)
+- [Check if two strings are buddy strings](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/BuddyStringFinder.cpp)
+- [Find the longest common prefix from an array of strings](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/StringManipulation/LongestCommonPrefixFinder.cpp)
 
 ## Tree
 - [Validate a binary search tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/BinaryTreeValidator.cpp)
@@ -84,11 +101,12 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Print the level order traversal of a binary tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/LevelOrderTraversal.cpp)
 - [Find the lowest common ancestor of two nodes in a subtree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/LowestCommonAncestor.cpp)
 - [Find the maximum depth of a binary tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/MaxDepth.cpp)
+- [Find if a path has a specific sum](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/PathSum.cpp)
 - [Print the level order traversal of a tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/PreOrderTraversal.cpp)
 - [Validate if a tree is a subtree of another tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/SubtreeCheck.cpp)
+- [Write an algorithm to encode/decode an N-ary tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/TreeCodec.cpp)
 - [Compare two binary tress](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/TreeComparator.cpp)
-- [Find if a path has a specific sum](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/PathSum.cpp)
-
+- [Check If Two Expression Trees are Equivalent](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/TreeEquivalence.cpp)
 
 ## About Me
 Hi there. I am Ravi Tandon. I have spent more than a decade building software at [Flipkart](http://flipkart.com/), [ThoughtSpot](https://www.thoughtspot.com/), and [Spotnana](https://www.spotnana.com/). I was previously a Staff Software Engineer at ThoughtSpot and built a Natural Language Understanding Engine. I have published more than [5 research papers](https://scholar.google.com/citations?user=A5jKYW0AAAAJ&hl=en), and have multiple patents on building [Search Engines](https://patents.justia.com/inventor/ravi-tandon). You can connect with me on [LinkedIn](https://www.linkedin.com/in/ravi-tandon-b6534049/), [Twitter](https://twitter.com/ravi_tandon), or [Email](mailto:ravitandon2@gmail.com).
