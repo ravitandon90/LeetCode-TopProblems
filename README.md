@@ -6,15 +6,20 @@ This is a list of solutions written for more than 300+ problems from leetcode. T
 Most of these problems are solved using C++. My goal is to publish solutions for these problems in Java, and Python as well.
 
 ## Array
+- [Find the intersection of two arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ArrayIntersection.cpp)
 - [Create a target array in a pre-specified format](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/CreateTargetArray.cpp)
 - [Decompress Run-Length Encoded List](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/DecompressRLE.cpp)
 - [Find the fixed point in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/FixedPoint.cpp)
 - [Number of Good Pairs](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/GoodPairs.cpp)
+- [H Index](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/HIndexCalculator.cpp)
 - [Find the Kth Positive Element in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/KthPositiveElement.cpp)
 - [Check if the coordinates are in a straight line](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/LineChecker.cpp)
 - [Merge N Sorted Arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MergeSortedArray.cpp)
+- [Find the missing number from an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MissingNumber.cpp)
 - [Find the missing ranges from an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MissingRangeFinder.cpp)
+- [Move Zeroes](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MoveZeroes.cpp)
 - [Kids With the Greatest Number of Candies](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/NumberOfCandies.cpp)
+- [Plus One](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/PlusOne.cpp)
 - [For each element of an array find the product except itself](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ProductExceptSelf.cpp)
 - [Range Sum Query](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/RangeSumQuery.cpp)
 - [Rotate Array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/RotateArray.cpp)
@@ -25,6 +30,7 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Count the number of 1 bits in a number](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/BitCounter.cpp)
 - [Counting Bits](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/CountingBits.cpp)
 - [Reverse the bits in a number](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/ReverseBits.cpp)
+- [Find the number that occurs once](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/SingleNumber.cpp)
 
 ## Concurrent Programming
 - [The Dining Philosophers Problem](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Concurrency/DiningPhilosophers.cpp)
@@ -32,31 +38,47 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 ## Dynamic Programming
 - [Climbing Stairs](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/ClimbingStairs.cpp)
 - [Find a number in the fibonacci sequence](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/FibonacciNumber.cpp)
+- [First Bad Version](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/FirstBadVersion.cpp)
 - [Is Subsequence](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/IsSubsequence.cpp)
 - [Find the sum of the maximum subarray with consecutive elements](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/MaxSubArray.cpp)
 - [N-th Tribonacci Number](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/NTribonacci.cpp)
 - [Valid Palindrome with at most 1 deletion](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/PalindromeValidator.cpp)
-- [First Bad Version](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/FirstBadVersion.cpp)
+- [Word Break](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/WordBreak.cpp)
+- [Word Break-II](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/WordBreakII.cpp)
 
 ## Graph
-- [Calculate the minimum network delay](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/NetworkDelay.cpp)
 - [Find a valid format for an alien dictionary](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/AlienDictionary.cpp)
-- [Find if a graph is a valid tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/GraphValidTree.cpp)
+- [Deep copy a graph](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/CloneGraph.cpp)
 - [Find the number of connected components in a graph](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/ConnectedComponents.cpp)
 - [Find if there exists a valid course schedule](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/CourseSchedule.cpp)
-- [Deep copy a graph](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/CloneGraph.cpp)
+- [Employee Importance](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/EmployeeImportance.cpp)
+- [Find if a graph is a valid tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/GraphValidTree.cpp)
+- [Calculate the minimum network delay](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Graph/NetworkDelay.cpp)
 
 ## Greedy
 - [Can Place Flowers](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Greedy/CanPlaceFlowers.cpp)
+- [Maximum Score](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Greedy/MaximumScore.cpp)
 - [Find the container with the maximum water](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Greedy/MaxWaterContainer.cpp)
 - [Best Time To Buy And Sell Stocks](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Greedy/StockStrategy.cpp)
 
 ## HashTable
 - [Verifying an Alien Dictionary](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/AlienDictionaryValidator.cpp)
+- [Continuous Subarray Sum](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/ContinuousSubarraySum.cpp)
 - [Check if a duplicate exists in an array in O(N)](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/DuplicateFinder.cpp)
+- [First Unique Character in a String](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/FindUniqueCharacter.cpp)
+- [Find all collection of four elements that have sum equal to K](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/FourSum.cpp)
+- [Group Anagrams](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/GroupAnagrams.cpp)
 - [Design a HitCounter](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/HitCounter.cpp)
 - [Count number of jewels and stones in a collection](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/JewelStoneCounter.cpp)
+- [Logger Rate Limiter](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/Logger.cpp)
+- [Find the majority element in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/MajorityElement.cpp)
 - [Find the missing number in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/MissingNumber.cpp)
+- [Number of matching subsequences in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/NumberMatchingSubsequences.cpp)
+- [Random Pick Index](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/ReservoirSampling.cpp)
+- [Add two sparse vectors](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/SparseVector.cpp)
+- [Subarray Sum Equals K](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/SubarraySum.cpp)
+- [3Sum - Find a triplet with a given sum](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/ThreeSum.cpp)
+- [Design a time-based key-value data structure](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/TimeMap.cpp)
 - [Design a Trie](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/Trie.cpp)
 - [Find if there are two numbers with a specific target sum](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/TwoSum.cpp)
 
