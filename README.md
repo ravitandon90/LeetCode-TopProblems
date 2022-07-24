@@ -11,8 +11,9 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Decompress Run-Length Encoded List](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/DecompressRLE.cpp)
 - [Find the fixed point in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/FixedPoint.cpp)
 - [Number of Good Pairs](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/GoodPairs.cpp)
-- [H Index](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/HIndexCalculator.cpp)
+- [H-Index Calculator](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/HIndexCalculator.cpp)
 - [Find the Kth Positive Element in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/KthPositiveElement.cpp)
+- [Longest Continuous Increasing Subsequence](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/LCISFinder.cpp)
 - [Check if the coordinates are in a straight line](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/LineChecker.cpp)
 - [Merge N Sorted Arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MergeSortedArray.cpp)
 - [Find the missing number from an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MissingNumber.cpp)
@@ -25,7 +26,7 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Rotate Array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/RotateArray.cpp)
 - [Find the running sum from an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/RunningSum.cpp)
 - [Find the third maximum element in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ThirdMaxFinder.cpp)
-
+	
 ## Bit Manipulation
 - [Count the number of 1 bits in a number](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/BitCounter.cpp)
 - [Counting Bits](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/CountingBits.cpp)
@@ -81,6 +82,8 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Design a time-based key-value data structure](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/TimeMap.cpp)
 - [Design a Trie](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/Trie.cpp)
 - [Find if there are two numbers with a specific target sum](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/TwoSum.cpp)
+- [Shortest Completing Word](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/ShortestCompletingWord.cpp)
+- [Remove Duplicates from Sorted Array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/HashTable/DuplicateRemover.cpp)
 
 ## Heap
 - [Kth Smallest Element in a Sorted Matrix](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Heap/KSmallestElementMatrix.cpp)
