@@ -34,12 +34,23 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Find the number that occurs once](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/BitManipulation/SingleNumber.cpp)
 
 ## Concurrent Programming
+- [Barber Shop Problem](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Concurrency/BarberShop.cpp)
 - [The Dining Philosophers Problem](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Concurrency/DiningPhilosophers.cpp)
+- [Reader Writer Lock](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Concurrency/ReaderWriterLock.cpp)
+- [Reader Writer Lock (No Starvation)](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Concurrency/ReaderWriterLockNoStarvation.cpp)
+- [Uber Rider Share Problem](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Concurrency/UberRiderProblem.cpp)
 
 ## Dynamic Programming
 - [Climbing Stairs](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/ClimbingStairs.cpp)
+- [Count Substrings That Differ by One Character](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/CountDifferSubstrings.cpp)
+- [Count Sorted Vowel Strings](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/CountSortedVowelStrings.cpp)
+- [Decode Ways](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/DecodeWays.cpp)
+- [Divisor Ways](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/DivisorWays.cpp)
+- [Egg Drop](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/EggDrop.cpp)
 - [Find a number in the fibonacci sequence](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/FibonacciNumber.cpp)
 - [First Bad Version](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/FirstBadVersion.cpp)
+- [Get Maximum in Generated Array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/GetMaxGeneratedArray.cpp)
+- [Interleaving String](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/InterleavingString.cpp)
 - [Is Subsequence](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/IsSubsequence.cpp)
 - [Find the sum of the maximum subarray with consecutive elements](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/MaxSubArray.cpp)
 - [N-th Tribonacci Number](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/DynamicProgramming/NTribonacci.cpp)

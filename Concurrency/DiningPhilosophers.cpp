@@ -1,11 +1,11 @@
 // Problem: https://leetcode.com/problems/the-dining-philosophers/
-// Dining Philosophers
 
 #include<vector>
 #include<mutex>
 #include<condition_variable>
 #include<functional>
 
+using namespace std;
 
 class DiningPhilosophers {
 public:
