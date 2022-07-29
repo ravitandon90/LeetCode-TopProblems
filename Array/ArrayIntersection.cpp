@@ -1,3 +1,5 @@
+// Problem: https://leetcode.com/problems/intersection-of-two-arrays/
+
 #include<vector>
 
 using namespace std;
