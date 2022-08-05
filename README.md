@@ -6,8 +6,8 @@ This is a list of solutions written for more than 300+ problems from leetcode. T
 Most of these problems are solved using C++. My goal is to publish solutions for these problems in Java, and Python as well.
 
 ## Array
-- [Add to Array-Form of Integer](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/AddToArrayForm.cpp)
-- [Find the intersection of two arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ArrayIntersection.cpp)
+- [Add to Array-Form of Integer](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/AddToArrayForm/Problem.md)
+- [Find the intersection of two arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ArrayIntersection/Problem.md)
 - [Find the intersection of three arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ArraysIntersection.cpp)
 - [Find the maximum consecutive ones in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ConsecutiveOnes.cpp)
 - [Create a target array in a pre-specified format](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/CreateTargetArray.cpp)
