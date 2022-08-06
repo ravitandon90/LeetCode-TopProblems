@@ -8,7 +8,7 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 ## Array
 - [Add to Array-Form of Integer](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/AddToArrayForm/Problem.md)
 - [Find the intersection of two arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ArrayIntersection/Problem.md)
-- [Find the intersection of three arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ArraysIntersection.cpp)
+- [Find the intersection of three arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ArraysIntersection/Problem.md)
 - [Find the maximum consecutive ones in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ConsecutiveOnes.cpp)
 - [Create a target array in a pre-specified format](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/CreateTargetArray.cpp)
 - [Decompress Run-Length Encoded List](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/DecompressRLE.cpp)
