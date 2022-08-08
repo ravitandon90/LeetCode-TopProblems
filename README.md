@@ -11,9 +11,9 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Find the intersection of three arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ArraysIntersection/Problem.md)
 - [Find the maximum consecutive ones in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/ConsecutiveOnes/Problem.md)
 - [Create a target array in a pre-specified format](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/CreateTargetArray/Problem.md)
-- [Decompress Run-Length Encoded List](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/DecompressRLE.cpp)
-- [Find the fixed point in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/FixedPoint.cpp)
-- [Number of Good Pairs](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/GoodPairs.cpp)
+- [Decompress Run-Length Encoded List](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/DecompressRLEList/Problem.md)
+- [Find the fixed point in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/FixedPoint/Problem.md)
+- [Number of Good Pairs](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/GoodPairs/Problem.md)
 - [H-Index Calculator](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/HIndexCalculator.cpp)
 - [Interval List Intersections](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/IntervalListIntersections.cpp)
 - [Monotonic Array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/IsMonotone.cpp)
@@ -309,5 +309,6 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Check If Two Expression Trees are Equivalent](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/TreeEquivalence.cpp)
 - [Vertical Order Traversal of a Binary Tree](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Tree/VerticalOrderTraversal.cpp)
 
-## About Me
-Hi there. I am Ravi Tandon. I have spent more than a decade building software at [Flipkart](http://flipkart.com/), [ThoughtSpot](https://www.thoughtspot.com/), and [Spotnana](https://www.spotnana.com/). I was previously a Staff Software Engineer at ThoughtSpot and built a Natural Language Understanding Engine. I have published more than [5 research papers](https://scholar.google.com/citations?user=A5jKYW0AAAAJ&hl=en), and have multiple patents on building [Search Engines](https://patents.justia.com/inventor/ravi-tandon). You can connect with me on [LinkedIn](https://www.linkedin.com/in/ravi-tandon-b6534049/), [Twitter](https://twitter.com/ravi_tandon), or [Email](mailto:ravitandon2@gmail.com).
+## Contributors
+- [Ravi Tandon](https://www.linkedin.com/in/ravi-tandon-b6534049/) Hi there. I am Ravi Tandon. I have spent more than a decade building software at [Flipkart](http://flipkart.com/), [ThoughtSpot](https://www.thoughtspot.com/), and [Spotnana](https://www.spotnana.com/). I was previously a Staff Software Engineer at ThoughtSpot and built a Natural Language Understanding Engine. I have published more than [5 research papers](https://scholar.google.com/citations?user=A5jKYW0AAAAJ&hl=en), and have multiple patents on building [Search Engines](https://patents.justia.com/inventor/ravi-tandon). You can connect with me on [LinkedIn](https://www.linkedin.com/in/ravi-tandon-b6534049/), [Twitter](https://twitter.com/ravi_tandon), or [Email](mailto:ravitandon2@gmail.com)
+- [Ankit Kumar](https://www.linkedin.com/in/jinxankit) Hey, This is Ankit Kumar. I have more than 2 years of experience in the industry. I am currently working at [WeaveHQ](https://www.getweave.com) as a Software Engineer and building internal and deployment tools for weave platform engineering. Before Weave, I worked at [Samsung Electronics](https://research.samsung.com/sri-d). I love to read & write about system designs, devops, developer experience, deployments, infrastructures and architecture. Follow and Subscribe here: [Medium](https://jinxankit.medium.com) and [Substack](https://jinxankit.substack.com) 
