@@ -14,7 +14,7 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Decompress Run-Length Encoded List](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/DecompressRLEList/Problem.md)
 - [Find the fixed point in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/FixedPoint/Problem.md)
 - [Number of Good Pairs](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/GoodPairs/Problem.md)
-- [H-Index Calculator](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/HIndexCalculator.cpp)
+- [H-Index Calculator](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/HIndexCalculator/Problem.md)
 - [Interval List Intersections](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/IntervalListIntersections.cpp)
 - [Monotonic Array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/IsMonotone.cpp)
 - [Find the Kth Positive Element in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/KthPositiveElement.cpp)
