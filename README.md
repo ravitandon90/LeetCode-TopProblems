@@ -19,7 +19,7 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Monotonic Array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/IsMonotone/Problem.md)
 - [Find the Kth Positive Element in an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/KthPositiveElement/Problem.md)
 - [Longest Continuous Increasing Subsequence](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/LCISFinder/Problem.md)
-- [Check if the coordinates are in a straight line](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/LineChecker.cpp)
+- [Check if the coordinates are in a straight line](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/LineChecker/Problem.md)
 - [Make Two Arrays Equal by Reversing Sub-arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MakeTwoArrays.cpp)
 - [Merge N Sorted Arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MergeSortedArray.cpp)
 - [Find the missing number from an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MissingNumber.cpp)
