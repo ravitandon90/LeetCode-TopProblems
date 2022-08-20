@@ -21,7 +21,7 @@ Most of these problems are solved using C++. My goal is to publish solutions for
 - [Longest Continuous Increasing Subsequence](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/LCISFinder/Problem.md)
 - [Check if the coordinates are in a straight line](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/LineChecker/Problem.md)
 - [Make Two Arrays Equal by Reversing Sub-arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MakeTwoArraysEqual/Problem.md)
-- [Merge N Sorted Arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MergeSortedArray.cpp)
+- [Merge N Sorted Arrays](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MergeSortedArray/Problem.md)
 - [Find the missing number from an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MissingNumber.cpp)
 - [Find the missing ranges from an array](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MissingRangeFinder.cpp)
 - [Move Zeroes](https://github.com/ravitandon90/LeetCode-TopProblems/blob/main/Array/MoveZeroes.cpp)
